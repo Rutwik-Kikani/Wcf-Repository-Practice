@@ -1,0 +1,6 @@
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\bin\Debug\ReportService.dll.config
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\bin\Debug\ReportService.dll
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\bin\Debug\ReportService.pdb
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\obj\Debug\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\obj\Debug\ReportService.dll
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportService\obj\Debug\ReportService.pdb

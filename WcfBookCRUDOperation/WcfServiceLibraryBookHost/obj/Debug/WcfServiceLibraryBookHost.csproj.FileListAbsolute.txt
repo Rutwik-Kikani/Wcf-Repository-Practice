@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBookHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBookHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBookHost.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBook.dll
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBook.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\bin\Debug\WcfServiceLibraryBook.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\obj\Debug\WcfServiceLibraryBookHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\obj\Debug\WcfServiceLibraryBookHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\obj\Debug\WcfServiceLibraryBookHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\obj\Debug\WcfServiceLibraryBookHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperation\WcfServiceLibraryBookHost\obj\Debug\WcfServiceLibraryBookHost.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfWindowsHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfWindowsHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfWindowsHost.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfClassLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfClassLibrary.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\bin\Debug\WcfClassLibrary.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfClassLibraryWindowsHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfWindowsHost.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfWindowsHost.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfClassLibraryWindowsHost.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfClassLibraryWindowsHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfClassLibraryWindowsHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfWindowsHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfWindowsHost\obj\Debug\WcfWindowsHost.pdb

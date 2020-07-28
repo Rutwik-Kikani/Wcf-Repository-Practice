@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\bin\Debug\MEPDemoClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\bin\Debug\MEPDemoClient.exe
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\bin\Debug\MEPDemoClient.pdb
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.exe
+C:\Users\Rutvik Kikani\source\repos\MEPDemoClient\MEPDemoClient\obj\Debug\MEPDemoClient.pdb

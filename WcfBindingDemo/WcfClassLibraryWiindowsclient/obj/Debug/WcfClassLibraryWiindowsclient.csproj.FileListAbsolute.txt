@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\bin\Debug\WcfClassLibraryWiindowsclient.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\bin\Debug\WcfClassLibraryWiindowsclient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\bin\Debug\WcfClassLibraryWiindowsclient.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibraryWiindowsclient\obj\Debug\WcfClassLibraryWiindowsclient.pdb

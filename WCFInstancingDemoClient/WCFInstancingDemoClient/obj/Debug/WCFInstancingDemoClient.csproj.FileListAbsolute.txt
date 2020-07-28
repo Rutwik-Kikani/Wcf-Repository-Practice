@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\bin\Debug\WCFInstancingDemoClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\bin\Debug\WCFInstancingDemoClient.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\bin\Debug\WCFInstancingDemoClient.pdb
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\obj\Debug\WCFInstancingDemoClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\obj\Debug\WCFInstancingDemoClient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\obj\Debug\WCFInstancingDemoClient.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoClient\obj\Debug\WCFInstancingDemoClient.pdb

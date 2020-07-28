@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\bin\Debug\WCFInstancingDemoWinClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\bin\Debug\WCFInstancingDemoWinClient.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\bin\Debug\WCFInstancingDemoWinClient.pdb
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemoClient\WCFInstancingDemoWinClient\obj\Debug\WCFInstancingDemoWinClient.pdb

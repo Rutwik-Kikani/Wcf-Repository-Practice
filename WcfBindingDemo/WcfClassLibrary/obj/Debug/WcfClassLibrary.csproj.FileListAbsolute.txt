@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\bin\Debug\WcfClassLibrary.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\bin\Debug\WcfClassLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\bin\Debug\WcfClassLibrary.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\obj\Debug\WcfClassLibrary.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\obj\Debug\WcfClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\obj\Debug\WcfClassLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\WcfBindingDemo\WcfClassLibrary\obj\Debug\WcfClassLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPHost.exe
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPHost.pdb
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPService.dll
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPService.pdb
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\bin\Debug\MEPService.dll.config
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\obj\Debug\MEPHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\obj\Debug\MEPHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\obj\Debug\MEPHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\obj\Debug\MEPHost.exe
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPHost\obj\Debug\MEPHost.pdb

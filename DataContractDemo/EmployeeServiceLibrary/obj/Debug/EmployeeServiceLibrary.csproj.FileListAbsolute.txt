@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.dll.config
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.pdb
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.pdb

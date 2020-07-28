@@ -1,0 +1,5 @@
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\IHelloRemotingService\obj\Debug\IHelloRemotingService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

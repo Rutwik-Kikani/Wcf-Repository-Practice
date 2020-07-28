@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb

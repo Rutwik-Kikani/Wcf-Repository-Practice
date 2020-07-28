@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\bin\Debug\CustomFaultDemoService.dll.config
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\bin\Debug\CustomFaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\bin\Debug\CustomFaultDemoService.pdb
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\obj\Debug\CustomFaultDemoService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\obj\Debug\CustomFaultDemoService.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\obj\Debug\CustomFaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomFaultDemoService\obj\Debug\CustomFaultDemoService.pdb

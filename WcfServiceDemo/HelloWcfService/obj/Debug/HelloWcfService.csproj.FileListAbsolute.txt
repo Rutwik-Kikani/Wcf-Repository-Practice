@@ -1,0 +1,6 @@
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\bin\Debug\HelloWcfService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\bin\Debug\HelloWcfService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\bin\Debug\HelloWcfService.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\obj\Debug\HelloWcfService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\obj\Debug\HelloWcfService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfService\obj\Debug\HelloWcfService.pdb

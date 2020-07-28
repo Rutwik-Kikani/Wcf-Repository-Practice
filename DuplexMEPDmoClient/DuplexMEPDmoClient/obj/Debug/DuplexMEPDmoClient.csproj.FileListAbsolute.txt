@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\bin\Debug\DuplexMEPDmoClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\bin\Debug\DuplexMEPDmoClient.exe
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\bin\Debug\DuplexMEPDmoClient.pdb
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.exe
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDmoClient\DuplexMEPDmoClient\obj\Debug\DuplexMEPDmoClient.pdb

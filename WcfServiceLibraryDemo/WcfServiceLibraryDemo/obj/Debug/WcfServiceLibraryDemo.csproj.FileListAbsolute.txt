@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\bin\Debug\WcfServiceLibraryDemo.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\bin\Debug\WcfServiceLibraryDemo.dll
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\bin\Debug\WcfServiceLibraryDemo.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\obj\Debug\WcfServiceLibraryDemo.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\obj\Debug\WcfServiceLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\obj\Debug\WcfServiceLibraryDemo.dll
+C:\Users\Rutvik Kikani\source\repos\WcfServiceLibraryDemo\WcfServiceLibraryDemo\obj\Debug\WcfServiceLibraryDemo.pdb

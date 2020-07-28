@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfService.dll
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfService.pdb
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\bin\Debug\SampleWcfService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\obj\Debug\SampleWcfServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\obj\Debug\SampleWcfServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\obj\Debug\SampleWcfServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\obj\Debug\SampleWcfServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WCFInstancingDemo\SampleWcfServiceHost\obj\Debug\SampleWcfServiceHost.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\bin\Debug\WcfUserService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\bin\Debug\WcfUserService.dll
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\bin\Debug\WcfUserService.pdb
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\obj\Debug\WcfUserService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\obj\Debug\WcfUserService.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\obj\Debug\WcfUserService.dll
+C:\Users\Rutvik Kikani\source\repos\WCFUserCRUDOperationDemo\WcfUserService\obj\Debug\WcfUserService.pdb

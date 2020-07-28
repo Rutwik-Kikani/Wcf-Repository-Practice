@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\bin\Debug\MaterialStyleDataGridView.exe.config
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\bin\Debug\MaterialStyleDataGridView.exe
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\bin\Debug\MaterialStyleDataGridView.pdb
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.exe
+C:\Users\Rutvik Kikani\source\repos\DataGridViewDemoes\MaterialStyleDataGridView\obj\Debug\MaterialStyleDataGridView.pdb

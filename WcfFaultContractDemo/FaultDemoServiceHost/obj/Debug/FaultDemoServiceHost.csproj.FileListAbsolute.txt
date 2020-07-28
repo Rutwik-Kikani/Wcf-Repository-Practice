@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoService.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\bin\Debug\FaultDemoService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\obj\Debug\FaultDemoServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\obj\Debug\FaultDemoServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\obj\Debug\FaultDemoServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\obj\Debug\FaultDemoServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoServiceHost\obj\Debug\FaultDemoServiceHost.pdb

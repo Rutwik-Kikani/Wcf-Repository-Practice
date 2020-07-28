@@ -1,0 +1,12 @@
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.dll
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.exe
+C:\Users\Rutvik Kikani\source\repos\RemtingServiceDemo\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.pdb

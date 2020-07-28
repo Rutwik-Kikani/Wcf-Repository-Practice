@@ -1,0 +1,9 @@
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\bin\Debug\HelloWcfWindowsClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\bin\Debug\HelloWcfWindowsClient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\bin\Debug\HelloWcfWindowsClient.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.Form1.resources
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfWindowsClient\obj\Debug\HelloWcfWindowsClient.pdb

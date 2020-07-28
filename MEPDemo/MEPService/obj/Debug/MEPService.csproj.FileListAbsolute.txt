@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\bin\Debug\MEPService.dll.config
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\bin\Debug\MEPService.dll
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\bin\Debug\MEPService.pdb
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\obj\Debug\MEPService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\obj\Debug\MEPService.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\obj\Debug\MEPService.dll
+C:\Users\Rutvik Kikani\source\repos\MEPDemo\MEPService\obj\Debug\MEPService.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceLibrary.dll
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceLibrary.pdb
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\bin\Debug\EmployeeServiceLibrary.dll.config
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\DataContractDemo\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

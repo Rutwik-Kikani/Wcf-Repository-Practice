@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfService.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\bin\Debug\HelloWcfService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\obj\Debug\HelloWcfServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\obj\Debug\HelloWcfServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\obj\Debug\HelloWcfServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\WcfServiceDemo\HelloWcfServiceHost\obj\Debug\HelloWcfServiceHost.pdb

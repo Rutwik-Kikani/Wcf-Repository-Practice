@@ -1,0 +1,10 @@
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.Properties.Resources.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.WcfServiceBookTestDF.resources
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\bin\Debug\WcfServiceBookClient.exe.config
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\bin\Debug\WcfServiceBookClient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\bin\Debug\WcfServiceBookClient.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.exe
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfBookCRUDOperationClient\WcfServiceBookClient\obj\Debug\WcfServiceBookClient.csprojAssemblyReference.cache

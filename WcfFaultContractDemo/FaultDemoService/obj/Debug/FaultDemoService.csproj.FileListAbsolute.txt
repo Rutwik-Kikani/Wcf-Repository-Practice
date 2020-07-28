@@ -1,0 +1,7 @@
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\bin\Debug\FaultDemoService.dll.config
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\bin\Debug\FaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\bin\Debug\FaultDemoService.pdb
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\obj\Debug\FaultDemoService.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\obj\Debug\FaultDemoService.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\obj\Debug\FaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\WcfFaultContractDemo\FaultDemoService\obj\Debug\FaultDemoService.pdb

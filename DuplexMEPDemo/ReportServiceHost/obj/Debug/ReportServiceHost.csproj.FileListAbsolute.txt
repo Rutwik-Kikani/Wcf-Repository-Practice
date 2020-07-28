@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportServiceHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportServiceHost.pdb
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportService.dll
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportService.pdb
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\bin\Debug\ReportService.dll.config
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\obj\Debug\ReportServiceHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\obj\Debug\ReportServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\obj\Debug\ReportServiceHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\obj\Debug\ReportServiceHost.exe
+C:\Users\Rutvik Kikani\source\repos\DuplexMEPDemo\ReportServiceHost\obj\Debug\ReportServiceHost.pdb

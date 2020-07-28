@@ -1,0 +1,11 @@
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomeFaultDemoHost.exe.config
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomeFaultDemoHost.exe
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomeFaultDemoHost.pdb
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomFaultDemoService.dll
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomFaultDemoService.pdb
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\bin\Debug\CustomFaultDemoService.dll.config
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\obj\Debug\CustomeFaultDemoHost.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\obj\Debug\CustomeFaultDemoHost.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\obj\Debug\CustomeFaultDemoHost.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\obj\Debug\CustomeFaultDemoHost.exe
+C:\Users\Rutvik Kikani\source\repos\FaultContractDemo1\CustomeFaultDemoHost\obj\Debug\CustomeFaultDemoHost.pdb

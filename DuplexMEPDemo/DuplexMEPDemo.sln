@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService", "ReportService\ReportService.csproj", "{96AA5D4E-9250-4F28-97B8-AFD313B96FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportServiceHost", "ReportServiceHost\ReportServiceHost.csproj", "{6B5C31D1-D435-47C2-A291-73FA78302103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AA5D4E-9250-4F28-97B8-AFD313B96FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AA5D4E-9250-4F28-97B8-AFD313B96FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AA5D4E-9250-4F28-97B8-AFD313B96FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AA5D4E-9250-4F28-97B8-AFD313B96FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5C31D1-D435-47C2-A291-73FA78302103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5C31D1-D435-47C2-A291-73FA78302103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5C31D1-D435-47C2-A291-73FA78302103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5C31D1-D435-47C2-A291-73FA78302103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975A90CD-DF79-4E00-9C79-34F9C25E5542}
+	EndGlobalSection
+EndGlobal
